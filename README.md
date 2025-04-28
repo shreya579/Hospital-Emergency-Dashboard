@@ -133,7 +133,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For feedback or collaboration, connect via [LinkedIn](www.linkedin.com/in/shreya-pandey-97252431b) or open an issue in this repository.
+For feedback or collaboration, connect via [LinkedIn](https://www.linkedin.com/in/shreya-pandey-97252431b) or open an issue in this repository.
 
 ---
 
